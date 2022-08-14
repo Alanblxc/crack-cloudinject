@@ -80,3 +80,4 @@ if __name__ == "__main__":
         print("打包apk ing...")
         val2 = os.system('java -jar apktool.jar b out -o out.apk')
         shutil.rmtree("out")
+        print("已导出为out.apk,请自行签名")
