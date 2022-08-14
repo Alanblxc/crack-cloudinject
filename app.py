@@ -6,7 +6,7 @@ from fnmatch import fnmatch
 import re
 import shutil
 
-Des_Key = "e2e82177" # 相当于加密钥
+
 Des_IV = "12345678" # 自定IV向量（官网例子就是这么写的）
 
 
