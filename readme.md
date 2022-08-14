@@ -25,3 +25,5 @@
 `输入python app.py apk名字`使用
 
 **注意，需要自行配置java环境，遇到没有application的应用可能会报错**
+
+花了一下午写的烂代码（
